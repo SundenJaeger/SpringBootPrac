@@ -1,4 +1,4 @@
-package com.rentoki.springbootprac.product;
+package com.rentoki.springbootprac.product.services;
 
 import com.rentoki.springbootprac.Command;
 import org.springframework.http.HttpStatus;
